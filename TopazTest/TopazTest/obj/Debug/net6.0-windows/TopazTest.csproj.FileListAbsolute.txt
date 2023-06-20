@@ -1,0 +1,38 @@
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\bin\Debug\net6.0-windows\TopazTest.exe
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\bin\Debug\net6.0-windows\TopazTest.deps.json
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\bin\Debug\net6.0-windows\TopazTest.runtimeconfig.json
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\bin\Debug\net6.0-windows\TopazTest.dll
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\bin\Debug\net6.0-windows\TopazTest.pdb
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.csproj.AssemblyReference.cache
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.Form1.resources
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.csproj.GenerateResource.cache
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.AssemblyInfoInputs.cache
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.AssemblyInfo.cs
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.csproj.CoreCompileInputs.cache
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.dll
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\refint\TopazTest.dll
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.pdb
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.genruntimeconfig.cache
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\ref\TopazTest.dll
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\iTunkimi\Desktop\Тестовое Топаз\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.csproj.CopyComplete
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\bin\Debug\net6.0-windows\TopazTest.exe
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\bin\Debug\net6.0-windows\TopazTest.deps.json
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\bin\Debug\net6.0-windows\TopazTest.runtimeconfig.json
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\bin\Debug\net6.0-windows\TopazTest.dll
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\bin\Debug\net6.0-windows\TopazTest.pdb
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.csproj.AssemblyReference.cache
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.Form1.resources
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.csproj.GenerateResource.cache
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.AssemblyInfoInputs.cache
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.AssemblyInfo.cs
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.csproj.CoreCompileInputs.cache
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.csproj.CopyComplete
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.dll
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\refint\TopazTest.dll
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.pdb
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\TopazTest.genruntimeconfig.cache
+C:\Users\iTunkimi\Desktop\GitReps\TopazTestEx\TopazTest\TopazTest\obj\Debug\net6.0-windows\ref\TopazTest.dll
